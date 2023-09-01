@@ -1,3 +1,1 @@
-### Read Me
-
-# This is a personal website of Raymond Fong How
+This is a personal website of Raymond Fong How
